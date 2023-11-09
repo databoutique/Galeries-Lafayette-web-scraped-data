@@ -1,0 +1,14 @@
+# Galeries Lafayette web scraped data 
+
+## About the website
+
+Founded in 1893, [Galeries Lafayette](https://www.galerieslafayette.com/) revolutionized the retail industry by popularizing a new shopping concept, the department store. Within the heart of Paris, Theophile Bader and Alphonse Kahn introduced a retail space where customers could find a diverse range of products under one roof. While the company took its first step as a small haberdashery on rue La Fayette, it is now one of the top department stores worldwide known for its French luxury retailing. Although privately owned, the Galeries Lafayette group announced its intention to list its shares on Euronext Paris, but did not proceed with the IPO. Detailed business and financial information can be gleaned from the [Galeries Lafayettes Wikipedia page](https://en.wikipedia.org/wiki/Galeries_Lafayette) and its [Bloomberg profile](https://www.bloomberg.com/profile/company/GL:FP).
+
+Some of the main competitors of **Galeries Lafayette** are [Printemps](https://www.printempsfrance.com/), [Le Bon Marché](https://www.24sevres.com/en-us/le-bon-marche/vu-au-bon-marche), and [Harrods](https://www.harrods.com/). Typically operating with the retail model of offering high-end and luxury goods in large store spaces, these competitors often vie for the same customer base. Residing in Paris, Printemps is a French department store that maintains a strong focus on fashion with over 300 brands. Similarly, Le Bon Marché is an upscale department store offering luxury consumer goods. Meanwhile, Harrods is a UK-based luxury department store renowned for its prestigious brands and distinguished service. Further insights into these competitors can be accessed via their respective Wikipedia pages - [Printemps](https://en.wikipedia.org/wiki/Printemps), [Le Bon Marché](https://en.wikipedia.org/wiki/Le_Bon_Marché), and [Harrods](https://en.wikipedia.org/wiki/Harrods), or Bloomberg profiles.
+
+In the era of big data, leveraging web scraped data from the **Galeries Lafayette** website can provide numerous actionable insights. For instance, by obtaining real-time retail data on prices, discounts, and product availability, companies can hone their competitive strategies based on an informed market overview. Such data can be instrumental in monitoring market trends or in pricing optimization for better profit margins. It can also be used to study consumer buying patterns by analyzing which items are sold at full price or discounted frequently. Additionally, it can help understand the promotional strategies employed by Galeries Lafayette, by tracking the frequency and intensity of sales and discounts.
+
+
+## Link to **dataset**
+
+[Galeries Lafayette dataset](https://www.databoutique.com/buy-data-list-subset/Galeries%20Lafayette%20web%20scraped%20data/r/rec7CFGdRwTlg2yvP)
